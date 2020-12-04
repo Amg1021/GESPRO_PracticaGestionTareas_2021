@@ -29,3 +29,4 @@ Improve display of videos
 Document sprint 15 
 Add UI tests 
 Temporal fix exception when orientation changes 
+Fix weather charts 
