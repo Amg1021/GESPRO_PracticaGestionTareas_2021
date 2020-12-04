@@ -8,4 +8,4 @@ Document Diseno procedimental
 Document Diseno Arquitectonico 
 Add references 
 Improve Diseno Arquitectonico documentation 
-Add new tests to utility classes 
+Improve references 
