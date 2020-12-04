@@ -6,3 +6,4 @@ Minor fix
 Enter coordinates manually 
 Document Diseno procedimental 
 Document Diseno Arquitectonico 
+Add references 
