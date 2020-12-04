@@ -13,4 +13,5 @@ Fix overlap with long weather conditions
 Allow multiline notes 
 Convert to latex points 1 and 2 
 Convert to latex point 3 
-Document Diseno de datos 
+Convert to latex point 4 
+Convert to latex point 5 
