@@ -21,4 +21,5 @@ Improve references
 Add help contents
 Add video-tutorials 
 Document Manual de usuario
-Minor changes 
+Finish SonarQube integration 
+Add coverage report to sonarqube 
