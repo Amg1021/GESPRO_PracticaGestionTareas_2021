@@ -5,3 +5,4 @@ Document Diseno de Interfaces
 Minor fix 
 Enter coordinates manually 
 Document Diseno procedimental 
+Document Diseno Arquitectonico 
