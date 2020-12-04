@@ -21,8 +21,6 @@ Improve references
 Add help contents
 Add video-tutorials 
 Document Manual de usuario
-Finish SonarQube integration 
-Add coverage report to sonarqube 
-Fix exclusions sonarqube 
-Fix exclusions sonarqube 
-Fix binary files sonarqube 
+Minor changes 
+Minor fix 
+Improve help 
