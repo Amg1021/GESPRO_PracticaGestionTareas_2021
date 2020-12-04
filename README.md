@@ -31,3 +31,4 @@ Add UI tests
 Temporal fix exception when orientation changes 
 Fix weather charts 
 Fix exception with vectors in API < 21 
+Fix apiary name overlap 
