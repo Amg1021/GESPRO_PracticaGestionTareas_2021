@@ -24,4 +24,5 @@ Document Manual de usuario
 Minor changes 
 Minor fix 
 Improve help 
-Add splash activity 
+Improve display of videos 
+Improve display of videos 
