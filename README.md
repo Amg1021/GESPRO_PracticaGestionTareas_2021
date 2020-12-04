@@ -15,6 +15,9 @@ Convert to latex points 1 and 2
 Convert to latex point 3 
 Convert to latex point 4 
 Convert to latex point 5 
-Convert to latex point 6 
-Convert to latex point 7 
-Improve references 
+Fix pdf images position 
+Fix images position 
+Fix images position 
+Fix images position 
+Fix images position 
+Fix images position 
