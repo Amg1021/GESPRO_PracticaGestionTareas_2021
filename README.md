@@ -21,3 +21,4 @@ Improve references
 Add help contents
 Add video-tutorials 
 Document Manual de usuario
+Finish SonarQube integration 
