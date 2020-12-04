@@ -20,3 +20,4 @@ Convert to latex point 7
 Improve references 
 Add help contents
 Add video-tutorials 
+Minor fixes 
