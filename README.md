@@ -4,3 +4,4 @@
 Document Diseno de Interfaces
 Minor fix 
 Enter coordinates manually 
+Document Diseno procedimental 
