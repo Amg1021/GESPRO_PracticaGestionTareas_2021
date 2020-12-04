@@ -26,3 +26,4 @@ Fix images position
 Document Viabilidad Economica 
 Document Especificacion de Requisitos 
 Integrate SonarQube 
+Minor fix SonarQube 
