@@ -34,3 +34,4 @@ Fix exception with vectors in API < 21
 Fix apiary name overlap 
 Convert annex D to latex 
 Convert annex E to latex 
+Convert annex B to latex 
