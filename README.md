@@ -23,3 +23,4 @@ Add video-tutorials
 Document Manual de usuario
 Finish SonarQube integration 
 Add coverage report to sonarqube 
+Fix exclusions sonarqube 
