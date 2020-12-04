@@ -39,3 +39,4 @@ Add javadoc
 Finish report 
 Improve docs 
 Fix count down 
+Fix weather data summary bug 
