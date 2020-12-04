@@ -11,3 +11,4 @@ Improve Diseno Arquitectonico documentation
 Add new tests to utility classes 
 Fix overlap with long weather conditions 
 Allow multiline notes 
+Fix delete old current weather 
