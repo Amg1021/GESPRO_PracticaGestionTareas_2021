@@ -8,4 +8,5 @@ Document Diseno procedimental
 Document Diseno Arquitectonico 
 Add references 
 Improve Diseno Arquitectonico documentation 
-Improve references 
+Add new tests to utility classes 
+Fix overlap with long weather conditions 
